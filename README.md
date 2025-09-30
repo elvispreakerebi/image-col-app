@@ -64,8 +64,6 @@ Notes:
 
 ### Screenshot
 
-Place the screenshot at `docs/screenshot.png` and it will render below:
-
 ![Column + Image.network Demo](docs/screenshot.png)
 
 
